@@ -40,7 +40,9 @@ https://github.com/haoyu7/Codepath_week8/blob/master/green_username.gif
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR
+
+https://github.com/haoyu7/Codepath_week8/blob/master/red_IDOR.gif
 
 Vulnerability #2: __________________
 
