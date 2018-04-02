@@ -19,7 +19,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: XSS
+Vulnerability #1: SQLi
+
+https://github.com/haoyu7/Codepath_week8/blob/master/blue_sql.gif
 
 
 
