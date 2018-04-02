@@ -30,6 +30,7 @@ Vulnerability #2:
 
 Vulnerability #1: XSS
 
+https://github.com/haoyu7/Codepath_week8/blob/master/green_xss.gif
 
 
 Vulnerability #2: username enumeration
