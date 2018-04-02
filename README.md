@@ -25,7 +25,13 @@ https://github.com/haoyu7/Codepath_week8/blob/master/blue_sql.gif
 
 
 
-Vulnerability #2: 
+Vulnerability #2: session H
+
+The video is too long to be converted to a single gif, therefore I seperated them in two parts.
+
+part1: https://github.com/haoyu7/Codepath_week8/blob/master/blue_session_part1.gif
+
+part2: https://github.com/haoyu7/Codepath_week8/blob/master/blue_session_part2.gif
 
 
 ## Green
@@ -46,7 +52,7 @@ Vulnerability #1: IDOR
 
 https://github.com/haoyu7/Codepath_week8/blob/master/red_IDOR.gif
 
-Vulnerability #2: __________________
+Vulnerability #2: 
 
 
 ## Notes
